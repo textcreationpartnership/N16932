@@ -111,20 +111,20 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:021804_0000_0FB7522CF3CE2D30"/>
-            <pb facs="tcp:021804_0001_0FB7522DE4F87270"/>
+            <pb facs="unknown:021804_0000_0FB7522CF3CE2D30"/>
+            <pb facs="unknown:021804_0001_0FB7522DE4F87270"/>
             <p>DARBY's RETURN. A COMIC SKETCH. AS PERFORMED AT THE NEW-YORK THEATRE. NOVEMBER, 24, 1789, FOR THE BENEFIT OF Mr. WIGNELL.</p>
             <p>WRITTEN BY WILLIAM DUNLAP.</p>
             <p>NEW-YORK: PRINTED BY HODGE, ALLEN, AND CAMPBELL. And Sold at their reſpective Bookſtores, and by BERRY AND ROGERS. M.DCC.LXXXIX.</p>
          </div>
          <div type="to_the_public">
-            <pb facs="tcp:021804_0002_0FB7522F6E64A9C8"/>
+            <pb facs="unknown:021804_0002_0FB7522F6E64A9C8"/>
             <head>TO THE PUBLIC.</head>
             <p>THE following Dramatic trifle was not written for publication, but merely to ſerve the Gentleman on whoſe night it was performed.—The Author is fully ſenſible, that the plea of its being a haſty Production is no excuſe for obtruding on the Public an incorrect Compoſition; but, being importuned by his Friends, he has conſented to throw this Child of the Day on the protection of the World, encouraged by the flattering reception it received at the Theatre, and the candour once before ſhewn to its Author.</p>
             <p>☞ The lines marked with inverted comma's, were omitted in the repreſentation.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:021804_0003_0FB75235670A4EF8"/>
+            <pb facs="unknown:021804_0003_0FB75235670A4EF8"/>
             <head>CHARACTERS.</head>
             <list>
                <head>MEN.</head>
@@ -149,7 +149,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:021804_0004_0FB752398B8C8B00"/>
+            <pb facs="unknown:021804_0004_0FB752398B8C8B00"/>
             <head>DARBY's RETURN.</head>
             <head>SCENE. The Village of Carton.</head>
             <p>AFTER ſome airs from the Poor Soldier, the curtain draws, and diſcovers <hi>Darby,</hi> ſurround<g ref="char:EOLhyphen"/>ed by <hi>Father Luke, Dermot, Kathleen,</hi> and villagers —They huzza and advance.</p>
@@ -206,7 +206,7 @@
                   <hi>Good wiſhes have ever been wi' you,</hi>
                </l>
                <l>
-                  <pb n="6" facs="tcp:021804_0005_0FB7523A927EAA38"/>
+                  <pb n="6" facs="unknown:021804_0005_0FB7523A927EAA38"/>
                   <hi>Now where have you been?</hi>
                </l>
                <l>
@@ -301,7 +301,7 @@
                   <hi>"And what need ye all gabble loud ſo,</hi>
                </l>
                <l>
-                  <pb n="7" facs="tcp:021804_0006_0FB7523D219E9140"/>
+                  <pb n="7" facs="unknown:021804_0006_0FB7523D219E9140"/>
                   <hi>"Who the devil can ſpeak,</hi>
                </l>
                <l>
@@ -361,7 +361,7 @@
                <l>But having ſpent my caſh—for caſh will go!</l>
             </sp>
             <sp>
-               <pb n="8" facs="tcp:021804_0007_0FB75241BAC68240"/>
+               <pb n="8" facs="unknown:021804_0007_0FB75241BAC68240"/>
                <speaker>FATHER LUKE.</speaker>
                <p>Ah, Darby! that's a truth we all well know!</p>
             </sp>
@@ -409,7 +409,7 @@
                <l>I'm ſure I wonder how it ever come</l>
                <l>To bring its own dear carrot colour home;</l>
                <l>
-                  <pb n="9" facs="tcp:021804_0008_0FB75244C8D99060"/>So cloſe ſcrew'd up,—ſure, <hi>Dermot,</hi> you would think,</l>
+                  <pb n="9" facs="unknown:021804_0008_0FB75244C8D99060"/>So cloſe ſcrew'd up,—ſure, <hi>Dermot,</hi> you would think,</l>
                <l>My ſkin like drum-head tight:—I couldn't wink;</l>
                <l>Loaded with belts and buckles at all points,</l>
                <l>We mov'd like wooden men with iron joints.</l>
@@ -452,7 +452,7 @@
                <p>Alas! what hardſhips 'twas your lot to prove.</p>
             </sp>
             <sp>
-               <pb n="10" facs="tcp:021804_0009_0FB752476DD4BA20"/>
+               <pb n="10" facs="unknown:021804_0009_0FB752476DD4BA20"/>
                <speaker>DARBY.</speaker>
                <l>Yes, Kathleen, yes! and all for ſake of love.</l>
                <l>Now on the waves again, with ſwelling ſail—</l>
@@ -494,7 +494,7 @@
                <l>At one nice little place they call'd New-York;</l>
                <l>Oh! there they lov'd me dearly, never fear</l>
                <l>
-                  <pb n="11" facs="tcp:021804_0010_0FB75248E160DC60"/>But Darby loves them too, with heart ſincere.</l>
+                  <pb n="11" facs="unknown:021804_0010_0FB75248E160DC60"/>But Darby loves them too, with heart ſincere.</l>
                <l>There too I ſaw ſome mighty pretty ſhows;</l>
                <l>A revolution without blood or blows;</l>
                <l>For as I underſtood the cunning elves,</l>
@@ -532,7 +532,7 @@
                <p>Why that's the ſtrangeſt ſight of all.</p>
             </sp>
             <sp>
-               <pb n="12" facs="tcp:021804_0011_0FB7524A4C782F38"/>
+               <pb n="12" facs="unknown:021804_0011_0FB7524A4C782F38"/>
                <speaker>KATHLEEN.</speaker>
                <p>How look'd he Darby? Was he ſhort or tall?</p>
             </sp>
@@ -571,7 +571,7 @@
                <p>Why Darby, boy, why didn't you ſtay there?</p>
             </sp>
             <sp>
-               <pb n="13" facs="tcp:021804_0012_0FB75252EF3B6A58"/>
+               <pb n="13" facs="unknown:021804_0012_0FB75252EF3B6A58"/>
                <speaker>DARBY.</speaker>
                <l>Becauſe I wiſh'd to pay a viſit here;</l>
                <l>To ſee how all the <hi>Carton</hi> laſſes thrive,</l>
@@ -626,7 +626,7 @@
                                  <hi>We all of us laugh'd;—tho' none found out the joke ſirs.</hi>
                               </l>
                               <l>
-                                 <pb n="14" facs="tcp:021804_0013_0FB75254104B4B90"/>
+                                 <pb n="14" facs="unknown:021804_0013_0FB75254104B4B90"/>
                                  <hi>Then all in a flock, like before-mentioned plover,</hi>
                               </l>
                               <l>
@@ -712,7 +712,7 @@
       </body>
       <back>
          <div type="publishers_advertisement">
-            <pb facs="tcp:021804_0014_0FB75255A699ED70"/>
+            <pb facs="unknown:021804_0014_0FB75255A699ED70"/>
             <p>JUST PUBLISHED, AND TO BE SOLD BY Hodge, Allen and Campbell, The FATHER; or, AMERICAN SHANDY-ISM. A COMEDY, as performed at the New-York Theatre, by the Old American Company. Written in the Year <hi>1789.</hi>
             </p>
             <q>
@@ -736,7 +736,7 @@
             <p>In three Volumes, large Octavo, ornamented with Copper-plates.</p>
          </div>
          <div type="publishers_advertisement">
-            <pb facs="tcp:021804_0015_0FB7525879B41458"/>
+            <pb facs="unknown:021804_0015_0FB7525879B41458"/>
             <p>A Treatiſe of the Materia Medica. By WILLIAM CULLEN, M. D.</p>
             <p>Profeſſor of the Practice of Phyſic in the Univerſity of Edinburgh;— Firſt Phyſician to his Majeſty for Scotland; Fellow of the Royal College of Phyſicians of Edinburgh; of the Royal Societies of London and of Edinburgh; of the Royal Society of Medicine of Paris; of the Royal College of Phyſicians of Madrid; of the American Philoſophical Society of Philadelphia; of the Medical Society of Copenhagen; of the Medical Society of Dublin; of the Royal Medical, and of the Royal Phyſico-Medical, Societies of Edin<g ref="char:EOLhyphen"/>burgh; —Author of the Firſt Lines of the Practice of Phyſic, Sy<g ref="char:EOLhyphen"/>nopſis Noſologiae—Inſtitutions of Medicine, and the Eſſay on the Recovery of Drowned Perſons.</p>
             <p>Two Octavo Volumes, neatly printed from the laſt Britiſh Edition.</p>
